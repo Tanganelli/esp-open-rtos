@@ -25,3 +25,6 @@
 [submodule "extras/http-parser/http-parser"]
 	path = extras/http-parser/http-parser
 	url = https://github.com/nodejs/http-parser
+[submodule "extras/er-coap"]
+	path = extras/er-coap
+	url = https://github.com/Tanganelli/er-coap.git
